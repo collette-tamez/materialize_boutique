@@ -1,0 +1,53 @@
+/**/
+nav, i.nav-icon{
+    background-color: #fffabe;
+    color: #515151;
+}
+a:hover {
+    color: #d42551;
+    cursor: pointer;
+}
+.nav-text{
+    color: #515151;
+}
+a.brand-logo > img {
+    padding: 8%;
+}
+/**/
+.parallax-container {
+    height: 285px;
+}
+/**/
+#mainText{
+    color: #6a6969;
+}
+#mainText > p{
+    font-size: 14px;
+}
+#mainText > h5{
+    font-size: 20px;
+}
+/*welcomepage*/
+div.card-panel{
+    background-color: #fffabe;
+    width: 135px !important;
+}
+div.card-panel > p {
+    color: #6a6969;
+}
+/**our macarons page **/
+#classics{
+    background: url("../assets/images/our-macarons-background.png") no-repeat bottom right;
+}
+/**gifts and parties**/
+span{
+    font-size: 14px;
+    color: #df5277;
+}
+/**/
+.footerText{
+    font-size: 12px;
+}
+footer.page-footer{
+    background-color: #df5277;
+}
