@@ -7,7 +7,7 @@
 <!-- main content -->
 <div id="mainText" class="section container">
     <div class="row">
-        <div class="col s12 m4">
+        <div class="col s12 m6 l4">
             <h5 class="section">Visit us!</h5>
             <p>Monday – Friday | 10am – 9pm</p>
             <p>Saturday | 10am – 8pm</p>
@@ -21,15 +21,16 @@
             <p><a href="mailto:bark.target@gmail.com"><span>ORDER@MBOUTIQUE.COM</span></a></p>
             <p>Send your questions, comments and flavor suggestions or place an order!</p>
         </div>
-        <div class="col s12 m4">
+        <div class="col s12 m6 l4">
             <h5 class="section">Contact form</h5>
             <form>
                 <div class="input-field">
+                    <i class="material-icons prefix">account_circle</i>
                     <input type="text" id="customerName" class="validate">
                     <label for="customerName">Name</label>
                 </div>
                 <div class="input-field">
-                    <input id="email" type="email" class="validate">
+                    <input id="email" type="email" class="validate" data-error="invalid email">
                     <label for="email">Email</label>
                 </div>
                 <div class="input-field">
@@ -49,7 +50,7 @@
                 </button>
             </form>
         </div>
-        <div class="col m2 offset-m1 hide-on-small-and-down">
+        <div class="col l2 offset-l1 hide-on-med-and-down">
             <img src="assets/images/macarons-image.png" class="section">
         </div>
     </div>
