@@ -1,6 +1,6 @@
 <nav>
 <div class="nav-wrapper">
-    <a href="pages/welcome.php" class="brand-logo"><img src="assets/images/logo.png"></a>
+    <a href="./index.php" class="brand-logo"><img src="assets/images/logo.png"></a>
     <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons nav-icon">menu</i></a>
     <ul class="right hide-on-med-and-down">
         <li><a href="index.php?page=welcome" class="nav-text">Welcome</a></li>
