@@ -27,6 +27,12 @@ a.brand-logo > img {
 #mainText > h5{
     font-size: 20px;
 }
+.btn{
+   background-color: #f8a1b8;
+}
+.btn:hover{
+    background-color: #d25072;
+}
 /*welcomepage*/
 div.card-panel{
     background-color: #fffabe;

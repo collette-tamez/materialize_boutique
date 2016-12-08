@@ -62,62 +62,64 @@
             <p>almond<img src="assets/images/almond.png" class="right"></p>
         </div>
     </div>
-    <ul class="collapsible hide-on-large-only" data-collapsible="accordion">
-        <li>
-            <div class="collapsible-header"><i class="material-icons">loyalty</i>Monday</div>
-            <div class="collapsible-body">
-                <p class="footerText">15:00-16:00</p>
-                <p>chocolate <img src="assets/images/chocolate.png" class="right"></p>
-                <p>coconut<img src="assets/images/coconut.png" class="right"></p>
-            </div>
-        </li>
-        <li>
-            <div class="collapsible-header"><i class="material-icons">loyalty</i>Tuesday</div>
-            <div class="collapsible-body">
-                <p class="footerText">14:00-15:00</p>
-                <p>violet cassis <img src="assets/images/violet-cassis.png" class="right"></p>
-                <p>green tea<img src="assets/images/green-tea.png" class="right"></p>
-            </div>
-        </li>
-        <li>
-            <div class="collapsible-header"><i class="material-icons">loyalty</i>Wednesday</div>
-            <div class="collapsible-body">
-                <p class="footerText">9:00-10:00</p>
-                <p>passion fruit <img src="assets/images/passion-fruit.png" class="right"></p>
-                <p>vanilla<img src="assets/images/vanilla.png" class="right"></p>
-            </div>
-        </li>
-        <li>
-            <div class="collapsible-header"><i class="material-icons">loyalty</i>Thursday</div>
-            <div class="collapsible-body">
-                <p class="footerText">18:00-19:00</p>
-                <p>coffee <img src="assets/images/coffee.png" class="right"></p>
-                <p>pistachio<img src="assets/images/pistachio.png" class="right"></p>
-            </div>
-        </li>
-        <li>
-            <div class="collapsible-header"><i class="material-icons">loyalty</i>Friday</div>
-            <div class="collapsible-body">
-                <p class="footerText">11:00-12:00</p>
-                <p>raspberry <img src="assets/images/raspbery.png" class="right"></p>
-                <p>lemon<img src="assets/images/lemon.png" class="right"></p>
-            </div>
-        </li>
-        <li>
-            <div class="collapsible-header"><i class="material-icons">loyalty</i>Saturday</div>
-            <div class="collapsible-body">
-                <p class="footerText">13:00-14:00</p>
-                <p>rose <img src="assets/images/rose.png" class="right"></p>
-                <p>tiffany blue<img src="assets/images/tiffany-blue.png" class="right"></p>
-            </div>
-        </li>
-        <li>
-            <div class="collapsible-header"><i class="material-icons">loyalty</i>Sunday</div>
-            <div class="collapsible-body">
-                <p class="footerText">10:00-11:00</p>
-                <p>caramel <img src="assets/images/caramel.png" class="right"></p>
-                <p>almond<img src="assets/images/almond.png" class="right"></p>
-            </div>
-        </li>
-    </ul>
+    <div class="row">
+        <ul class="collapsible hide-on-large-only col m6 s12" data-collapsible="accordion">
+            <li>
+                <div class="collapsible-header"><i class="material-icons">loyalty</i>Monday</div>
+                <div class="collapsible-body">
+                    <p class="footerText">15:00-16:00</p>
+                    <p>chocolate <img src="assets/images/chocolate.png" class="right"></p>
+                    <p>coconut<img src="assets/images/coconut.png" class="right"></p>
+                </div>
+            </li>
+            <li>
+                <div class="collapsible-header"><i class="material-icons">loyalty</i>Tuesday</div>
+                <div class="collapsible-body">
+                    <p class="footerText">14:00-15:00</p>
+                    <p>violet cassis <img src="assets/images/violet-cassis.png" class="right"></p>
+                    <p>green tea<img src="assets/images/green-tea.png" class="right"></p>
+                </div>
+            </li>
+            <li>
+                <div class="collapsible-header"><i class="material-icons">loyalty</i>Wednesday</div>
+                <div class="collapsible-body">
+                    <p class="footerText">9:00-10:00</p>
+                    <p>passion fruit <img src="assets/images/passion-fruit.png" class="right"></p>
+                    <p>vanilla<img src="assets/images/vanilla.png" class="right"></p>
+                </div>
+            </li>
+            <li>
+                <div class="collapsible-header"><i class="material-icons">loyalty</i>Thursday</div>
+                <div class="collapsible-body">
+                    <p class="footerText">18:00-19:00</p>
+                    <p>coffee <img src="assets/images/coffee.png" class="right"></p>
+                    <p>pistachio<img src="assets/images/pistachio.png" class="right"></p>
+                </div>
+            </li>
+            <li>
+                <div class="collapsible-header"><i class="material-icons">loyalty</i>Friday</div>
+                <div class="collapsible-body">
+                    <p class="footerText">11:00-12:00</p>
+                    <p>raspberry <img src="assets/images/raspbery.png" class="right"></p>
+                    <p>lemon<img src="assets/images/lemon.png" class="right"></p>
+                </div>
+            </li>
+            <li>
+                <div class="collapsible-header"><i class="material-icons">loyalty</i>Saturday</div>
+                <div class="collapsible-body">
+                    <p class="footerText">13:00-14:00</p>
+                    <p>rose <img src="assets/images/rose.png" class="right"></p>
+                    <p>tiffany blue<img src="assets/images/tiffany-blue.png" class="right"></p>
+                </div>
+            </li>
+            <li>
+                <div class="collapsible-header"><i class="material-icons">loyalty</i>Sunday</div>
+                <div class="collapsible-body">
+                    <p class="footerText">10:00-11:00</p>
+                    <p>caramel <img src="assets/images/caramel.png" class="right"></p>
+                    <p>almond<img src="assets/images/almond.png" class="right"></p>
+                </div>
+            </li>
+        </ul>
+    </div>
 </main>
